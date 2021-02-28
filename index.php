@@ -15,7 +15,7 @@
 
         <li><a href="#"><i class="fa fa-book-open"></i>Biografie</a>
            <ul>
-             <li><a href="#">Mihai Eminescu</a></li>
+             <li class="active"><a href="Mihai Eminescu.php">Mihai Eminescu</a></li>
              <li><a href="#">Grigori Vieru</a></li>
              <li><a href="#">Lucian Blaga</a></li>
              <li><a href="#">Vasile Alecsandri</a></li>
